@@ -1,0 +1,12 @@
+//
+//  ProductViewerConfig.xcconfig
+//  ProductViewer
+//
+//  Created by Thejus G on 01/03/25.
+//  Copyright © 2025 Target. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+PRODUCT_VIEWER_BASE_URL=api.target.com
