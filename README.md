@@ -2,9 +2,10 @@
 1. Fetches and displays a list of deals from an API
 2. Shows detailed product information
 3. Uses MVVM architecture for better separation of concerns
-4. Implements UICollectionView for list display
-5. Caches images using NSCache
-6. Unit tested with XCTestCase
+4. Implements Genric Network layer to support any data type
+5. Implements UICollectionView for list display
+6. Caches images using NSCache
+7. Unit tested with XCTestCase
 
 Screenshots / resources
 <table>
