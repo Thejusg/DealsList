@@ -6,4 +6,4 @@
 5. Caches images using NSCache
 6. Unit tested with XCTestCase
 
-<img src="[image-url](https://github.com/user-attachments/assets/99f2f53c-75cf-4089-9d6a-116fbda57fbd)" alt="Alt Text" style="width:200%; height:auto;">
+<img src="[image-url](https://github.com/user-attachments/assets/99f2f53c-75cf-4089-9d6a-116fbda57fbd) width:200">
